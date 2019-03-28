@@ -19,6 +19,8 @@ public class Dugu {
         System.out.println("我是wlfwwy~~~~~~~~");
         System.out.println("我是lfyww~~~~~~~~");
         System.out.println("我是lhhww~~~~~~~~");
+        System.out.println("我是zuimei~~~~~~~~");
+        System.out.println("我是haodkan~~~~~~~~");
 
     }
 }
