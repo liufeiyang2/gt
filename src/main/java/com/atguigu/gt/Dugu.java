@@ -11,6 +11,7 @@ public class Dugu {
         System.out.println("我是会/////");
         System.out.println("我是会/~~~~~~~~");
         System.out.println("我是wzq~~~~~~~~");
+        System.out.println("我是lfy~~~~~~~~");
 
     }
 }
